@@ -13,3 +13,4 @@ All ETL work was nodejs, and currently in the process of converting it with pyth
 - run `DEBUG=* nodejs ./query.sh process ./data/ 20160502 1` where `session-20160502.gz` is the file in the data folder `1` represents number of file you want to process
 
 
+![](TransitApp_Table May 2015_schema.png?raw=true "Schema")
