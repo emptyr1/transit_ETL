@@ -11,7 +11,7 @@ drop table raw_test;
 
 copy raw_test
 from 's3://transitapp-111/sessions.log-20160107.gz'
-credentials 'aws_access_key_id=AKIAJ6UISEBOSHDPSOZQ;aws_secret_access_key=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' 
+credentials 'aws_access_key_id=AKI********OZQ;aws_secret_access_key=d*****************************ty' 
 delimiter '|'
 gzip;
 
