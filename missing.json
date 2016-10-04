@@ -1,0 +1,36 @@
+{
+  "trip_requests": [{
+    "arrive_by": "2016-05-06 17:00:14 -0400",
+    "start_lat": "38.8865642",
+    "start_lon": "-76.9081689",
+    "end_lat": "38.815186",
+    "end_lon": "-77.14240099999999",
+    "timestamp": "2016-05-06 06:47:31 -0400"
+  }],
+  "uber_requests": [{
+    "pickup_latitude": 40.67483738068554,
+    "pickup_longitude": -73.92525147653551,
+    "drop_off_latitude": 40.6134264,
+    "drop_off_nickname": "New Utrecht High School",
+    "uber_app_installed": false,
+    "timestamp": "2016-05-06 06:47:40 -0400",
+    "drop_off_longitude": -74.0029406,
+    "product_name": "uberX"
+  }],
+  "sharing_system_actions": [{
+    "action": "purchase-plan-successful",
+    "longitude": -87.658971,
+    "extra": {
+      "purchase": {
+        "item_count": 1,
+        "total_amount": 9.95,
+        "item_name": "24-Hour"
+      }
+    },
+    "map_layer_id": 551,
+    "placemark_id": "343",
+    "latitude": 41.928887,
+    "type": "Divvy",
+    "timestamp": "2016-05-06 09:08:21 -0500"
+  }]
+}
