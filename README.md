@@ -1,7 +1,7 @@
 # Transit_ETL
 ----
 
-This project was part of a project which takes in logs of new line delimited json and creates a mysql warehouse using the schema defined in the [database.sql](database.sql) file.
+This project was part of a project which takes in logs of ~15TB new line delimited json and creates a mysql warehouse using the schema defined in the [database.sql](database.sql) file.
 All ETL work was nodejs, and currently in the process of converting it with python.
 
 ### Getting started
