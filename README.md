@@ -1,8 +1,9 @@
 # Transit_ETL
 ----
 
-This repository was part of a project which takes in logs of **~17TB** (compressed as .gz) [nd json](http://ndjson.org/)(stored in AWS S3) and creates a mysql warehouse using the schema defined in the [database.sql](database.sql) file.
+This repository was part of a project which takes in logs of **~17 TB** (compressed as .gz) [nd json](http://ndjson.org/) (stored in AWS S3) and creates a mysql warehouse using the schema defined in the [database.sql](database.sql) file.
 All ETL work was nodejs, and currently in the process of converting it with python.
+
 
 ### Getting started
 ----
